@@ -1,0 +1,15 @@
+{
+  "name": "notion-for-linux",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/cmrxnn/notion-for-linux",
+  "author": "Cam White <contact@heyim.cam>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "electron": "^23.1.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
